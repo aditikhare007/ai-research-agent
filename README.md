@@ -1,78 +1,68 @@
-# 🧠 AI Research Agent
-### From AI research papers → production-ready system thinking
+# 🧠 AI Research Agent  
+> Turning AI research papers into production-aware systems
 
-An open-source **research-to-production agent framework** that demonstrates how
-cutting-edge AI research translates into **real-world system design,
-architecture decisions, and implementation trade-offs**.
-
-Built for people who don’t just *read research* — they **build systems from it**.
+⭐ **If this project helps you think more clearly about AI research and production systems, please consider starring the repository.**
 
 ---
 
-> **Author — Aditi Khare**  
-> Writing on AI research, product thinking, and system architecture  
-> 🔗 https://aditikhare.com
+## 👩‍💻 Author — Aditi Khare  
+Writing on AI research, product thinking, and system architecture  
+🔗 https://aditikhare.com
 
 ---
 
-## ✨ Why This Project Exists
+## 🚀 What is AI Research Agent?
 
-AI research is advancing rapidly — but most papers never become
-production systems.
+AI Research Agent is an open-source **agentic framework** that demonstrates how cutting-edge AI research can be interpreted, structured, and **translated into real system design and implementation thinking**.
 
-Common gaps:
-- 📄 Papers optimize for novelty, not deployability  
-- 🧠 System implications are implicit, not explicit  
-- 🏗️ Builders struggle to evaluate what is *usable vs theoretical*  
-
-**AI Research Agent exists to close this gap.**
+It’s not just a summarizer — it’s a **thinking and execution-oriented workflow**.
 
 ---
 
-## 🚦 What This Is (and Isn’t)
+## 🧠 Why This Exists
 
-### ✅ This is
-- An agentic workflow for interpreting AI research
-- A structured approach to research synthesis
-- A research → production reasoning framework
-- A learning-first, extensible open-source system
+AI research moves *fast* — and most insights never reach production.  
+Papers are often:
 
-### ❌ This is not
-- A generic paper summarizer
-- A scraping or bookmarking tool
-- A replacement for human judgment
+✔ Dense and hard to interpret  
+✔ Rich in theory but light on system impact  
+✔ Difficult to evaluate for real-world use  
 
----
+AI Research Agent bridges that gap by helping users:
 
-## 🔁 Research → Production Mindset
-
-> Research has value only when it informs decisions, design, and execution.
-
-This project helps practitioners move from:
-- Understanding papers → thinking in systems  
-- Novel ideas → architectural implications  
-- Theory → production constraints and trade-offs  
+✨ Interpret research with intent to build  
+🔥 Evaluate novelty vs usability  
+🧩 Translate ideas into system thinking
 
 ---
 
-## 🧠 Core Capabilities
+## 🧭 Core Capabilities
 
-Research Discovery
-- Identify relevant AI research across LLMs, agentic systems, multimodal models
+### 🔍 Research Discovery
+Search and prioritize relevant AI research across domains like:
+- LLMs
+- Agentic AI
+- Multimodal models
 
-Structured Research Synthesis
-- Extract problem framing, contributions, assumptions, and risks
+### 📊 Structured Synthesis
+Analyze every paper with consistent dimensions:
+- Problem framing  
+- Contributions  
+- Assumptions  
+- Risks & limitations
 
-Research-to-Production Translation
-- Map research ideas to system design and engineering workflows
+### 🚀 Research → Production Translation
+Map research into:
+- Architectural design
+- Workflows
+- Operational trade-offs
 
-Architecture & System Lens
-- Highlight scalability, evaluation, cost, and failure modes
+### 🛠 Human-in-the-Loop
+Designed to *augment human reasoning*, not replace it.
 
-Human-in-the-Loop by Design
-- Support reasoning; do not automate decisions
+---
 
-## 🏗️ Agent Architecture (High-Level)
+## 🏗️ Architecture (High Level)
 
 Discovery Agent
 → Finds and prioritizes relevant research
@@ -85,25 +75,32 @@ Translation Agent
 
 Agents are loosely coupled, composable, and independently extensible.
 
-Discovery Agent
-→ Finds and prioritizes relevant research
-
-Synthesis Agent
-→ Converts papers into structured understanding
-
-Translation Agent
-→ Interprets system and production implications
-
-Agents are loosely coupled, composable, and independently extensible.
-
-📌 Research → Production Example (First Product)
+## 📌 Research → Production Example (First Product)
 
 This repository includes a full end-to-end walkthrough of how an AI
 research paper is translated into production-aware thinking.
 
-Example Paper
-
+Example Paper - 
 Chain-of-Thought Prompting in Large Language Models
+
+Problem:
+- LLMs lack transparent reasoning, reducing trust in production systems
+
+Core Contribution:
+- Prompting techniques that expose step-by-step reasoning
+
+Key Assumptions:
+- Models contain latent reasoning capability
+- Prompt structure can elicit reasoning behavior
+
+System Implications:
+- Increased latency and cost
+- Improved observability and debuggability
+
+Production Considerations:
+- Logging reasoning traces
+- Evaluating reasoning quality vs correctness
+- Managing hallucinated explanations
 
 👉 See the full walkthrough in:
 examples/sample_research_run.md
@@ -120,10 +117,10 @@ Human judgment first
 Applied AI researchers
 ML engineers and system builders
 AI product and platform leaders
-Open-source contributors exploring agentic workflows
+Practitioners translating research into production systems
 
 ## 🗂️ Repository Structure
-text
+
 ai-research-agent/
 ├── README.md
 ├── architecture/
@@ -152,4 +149,9 @@ where architecture, trade-offs, and judgment matter as much as models.
 
 The goal is clarity of reasoning, not feature completeness.
 
+This repository extends my writing on AI research, product thinking, and system architecture:
+🔗 https://aditikhare.com
+
 ⭐ If this repository helped you think differently about AI research and production, consider starring it to support its continued evolution.
+
+
