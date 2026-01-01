@@ -139,7 +139,6 @@ ai-research-agent/
 │   └── roadmap.md
 └── LICENSE
 
-
 🧠 Final Note
 
 AI Research Agent is intentionally designed as a thinking artifact.
