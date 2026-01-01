@@ -121,6 +121,9 @@ Practitioners translating research into production systems
 
 ## 🗂️ Repository Structure
 
+A minimal, intentionally structured layout:
+
+```text
 ai-research-agent/
 ├── README.md
 ├── architecture/
@@ -138,6 +141,8 @@ ai-research-agent/
 │   ├── design_principles.md
 │   └── roadmap.md
 └── LICENSE
+
+```md
 
 🧠 Final Note
 
