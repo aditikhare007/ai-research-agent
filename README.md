@@ -123,7 +123,7 @@ AI product and platform leaders
 Open-source contributors exploring agentic workflows
 
 ## 🗂️ Repository Structure
-
+text
 ai-research-agent/
 ├── README.md
 ├── architecture/
@@ -141,6 +141,7 @@ ai-research-agent/
 │   ├── design_principles.md
 │   └── roadmap.md
 └── LICENSE
+
 
 🧠 Final Note
 
