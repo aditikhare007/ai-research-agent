@@ -179,4 +179,20 @@ ai-research-agent/
 ├── docs/
 │   ├── design_principles.md
 │   └── roadmap.md
-└── LICENSE
+└── LICENSE ```
+---
+
+## Final Note
+
+AI Research Agent is intentionally designed as a thinking artifact.
+
+It reflects how research can be approached as a system design problem—where judgment, interpretation, and architecture matter as much as models.
+
+This repository favors clarity of reasoning over completeness of implementation.
+
+For related writing on AI research, product thinking, and system architecture, visit:  
+→ https://aditikhare.com
+---
+
+⭐ If you find this project useful or thought-provoking, consider starring the repository to support its continued evolution.
+
