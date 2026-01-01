@@ -142,7 +142,7 @@ ai-research-agent/
 │   └── roadmap.md
 └── LICENSE
 
-```md
+```
 
 🧠 Final Note
 
