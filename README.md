@@ -1,10 +1,6 @@
 # 🧠 AI Research Agent  
 > Turning AI research papers into production-aware systems
 
-⭐ **If this product helps you think more clearly about AI research and production systems, please consider starring the repository.**
-
----
-
 ## 👩‍💻 Author — Aditi Khare  
 Writing on AI research, product thinking, and system architecture  
 
@@ -12,6 +8,10 @@ Writing on AI research, product thinking, and system architecture
 🔗 **GitHub Repository:** [AI Research Agent](https://github.com/aditikhare007/ai-research-agent)  
 🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-research-agent-demo)  
 💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
+
+---
+
+⭐ **If this product helps you think more clearly about AI research and production systems, please consider starring the repository.**
 
 ---
 
