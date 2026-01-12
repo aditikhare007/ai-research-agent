@@ -182,4 +182,8 @@ This repository extends my writing on AI research, product thinking, and system 
 
 ⭐ If this repository helped you think differently about AI research and production, consider starring it to support its continued evolution.
 
+## License
+
+© 2026 **Aditi Khare**. All rights reserved.
+
 
