@@ -15,26 +15,6 @@ Writing on AI research, product thinking, and system architecture
 
 ---
 
-## 🧠 Other Work — Research → Production AI Systems
-
-This product is part of a broader set of open-source products exploring the
-**thinking layer of AI systems**, from research interpretation to production reality.
-
-- 🗺️ **AI System Design Atlas**  
-  *Architecture patterns and trade-offs*  
-  🔗 [GitHub](https://github.com/aditikhare007/ai-system-design-atlas) · 🤗 [Demo](https://huggingface.co/spaces/AditiShashiKhare/ai-system-design-atlas)
-
-- 🔍 **AI Evaluation & Trust Lens**  
-  *Evaluation, reliability, and trust reasoning*  
-  🔗 [GitHub](https://github.com/aditikhare007/ai-evaluation-trust-lens) · 🤗 [Demo](https://huggingface.co/spaces/AditiShashiKhare/ai-evaluation-trust-lens)
-
-- 🧩 **AI Failure Modes Gallery**  
-  *How AI systems fail in real-world production*  
-  🔗 [GitHub](https://github.com/aditikhare007/ai-failure-modes-gallery) · 🤗 [Demo](https://huggingface.co/spaces/AditiShashiKhare/ai-failure-modes-gallery)
-
-
----
-
 ## 🚀 What is AI Research Agent?
 
 AI Research Agent is an open-source **agentic framework** that demonstrates how cutting-edge AI research can be interpreted, structured, and **translated into real system design and implementation thinking**.
