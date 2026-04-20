@@ -3,8 +3,8 @@
 
 ## 👩‍💻 Author — Aditi Khare  
 
-Enterprise AI Product, Platform & Applied Research Leader 
-Writing on AI research, product thinking, and system architecture  
+- Enterprise AI Product, Platform & Applied Research Leader 
+- Writing on AI research, product thinking, and system architecture  
 
 ## 🌐 Presence 
 
