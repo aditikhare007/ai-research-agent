@@ -2,12 +2,16 @@
 > Turning AI research papers into production-aware systems
 
 ## 👩‍💻 Author — Aditi Khare  
+
+Enterprise AI Product, Platform & Applied Research Leader 
 Writing on AI research, product thinking, and system architecture  
+
+## 🌐 Presence 
 
 🌐 **Website:** [aditikhare.com](https://aditikhare.com)  
 🔗 **GitHub Repository:** [AI Research Agent](https://github.com/aditikhare007/ai-research-agent)  
 🤗 **Live Demo:** [View on Hugging Face](https://huggingface.co/spaces/AditiShashiKhare/ai-research-agent-demo)  
-💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditikhare)  
+💼 **LinkedIn:** [Aditi Khare](https://www.linkedin.com/in/aditi-khare-5840977b/)  
 
 ---
 
